@@ -16,7 +16,7 @@ Retail pricing plays a crucial role in driving sales and profitability. This pro
 
 **. Data Analysis:** Applied Python for in-depth analysis, including trend evaluation, correlation studies, and revenue impact assessments to identify key sales drivers and pricing sensitivity.
 
-**Visualization & Reporting:** 
+**. Visualization & Reporting:** 
 
 Designed interactive Power BI dashboards to:
 
