@@ -9,7 +9,7 @@ This project focuses on optimizing retail pricing strategies using historical sa
 Retail pricing plays a crucial role in driving sales and profitability. This project analyzed large volumes of historical sales and competitor pricing data to identify patterns, determine pricing sensitivity, and recommend optimal pricing strategies for improved revenue outcomes.
 
 
-**Key Steps:**
+ **Key Steps:**
 
 
 **. Data Collection & Cleaning:** Extracted and refined large datasets from historical sales records and competitor pricing using SQL, ensuring accuracy, quality, and consistency.
