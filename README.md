@@ -11,9 +11,10 @@ Retail pricing plays a crucial role in driving sales and profitability. This pro
 
 **Key Steps**
 
-**Data Collection & Cleaning:** Extracted and refined large datasets from historical sales records and competitor pricing using SQL, ensuring accuracy, quality, and consistency.
 
-**Data Analysis:** Applied Python for in-depth analysis, including trend evaluation, correlation studies, and revenue impact assessments to identify key sales drivers and pricing sensitivity.
+**. Data Collection & Cleaning:** Extracted and refined large datasets from historical sales records and competitor pricing using SQL, ensuring accuracy, quality, and consistency.
+
+**. Data Analysis:** Applied Python for in-depth analysis, including trend evaluation, correlation studies, and revenue impact assessments to identify key sales drivers and pricing sensitivity.
 
 **Visualization & Reporting:** 
 
