@@ -1,5 +1,6 @@
 # 🛒 Retail-Price-Optimization-Using-Historical-Data-
 
+
 This project focuses on optimizing retail pricing strategies using historical sales and competitor pricing data. By leveraging SQL, Python, and Power BI, actionable insights were generated to enhance decision-making, maximize profitability, and improve market competitiveness.
 
 **Overview**
