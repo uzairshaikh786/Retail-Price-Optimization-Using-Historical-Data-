@@ -18,7 +18,7 @@ Retail pricing plays a crucial role in driving sales and profitability. This pro
 
 **. Visualization & Reporting:** 
 
- Designed interactive Power BI dashboards to:
+  Designed interactive Power BI dashboards to:
 
 . Track product performance metrics
 
@@ -28,7 +28,7 @@ Retail pricing plays a crucial role in driving sales and profitability. This pro
 
 . Recommend optimal pricing strategies
 
-**Actionable Insights:** 
+**. Actionable Insights:** 
 
 Delivered data-driven recommendations that strengthened pricing strategies, enhanced market competitiveness, and maximized overall retail profitability.
 
