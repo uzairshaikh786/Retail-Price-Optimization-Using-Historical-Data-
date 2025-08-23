@@ -1,7 +1,7 @@
 # 🛒 Retail-Price-Optimization-Using-Historical-Data-
 
 
-This project focuses on optimizing retail pricing strategies using historical sales and competitor pricing data. By leveraging SQL, Python, and Power BI, actionable insights were generated to enhance decision-making, maximize profitability, and improve market competitiveness.
+This project focuses on optimizing retail pricing strategies using historical sales and competitor pricing data. By leveraging **SQL, Python, and Power BI**, actionable insights were generated to enhance decision-making, maximize profitability, and improve market competitiveness.
 
 
 **Overview:**
@@ -36,7 +36,7 @@ Delivered data-driven recommendations that strengthened pricing strategies, enha
 
 **Data Management:** SQL.
 
-**Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn).
+**Data Analysis:** Python (Pandas, NumPy, Matplotlib).
 
 **Data Visualization:** Power BI (with interactive dashboards and DAX measures).
 
