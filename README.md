@@ -20,25 +20,27 @@ Retail pricing plays a crucial role in driving sales and profitability. This pro
 
 Designed interactive Power BI dashboards to:
 
-Track product performance metrics
+. Track product performance metrics
 
-Benchmark competitor pricing trends
+. Benchmark competitor pricing trends
 
-Forecast revenue outcomes
+. Forecast revenue outcomes
 
-Recommend optimal pricing strategies
+. Recommend optimal pricing strategies
 
-Actionable Insights: Delivered data-driven recommendations that strengthened pricing strategies, enhanced market competitiveness, and maximized overall retail profitability.
+**Actionable Insights:** 
 
-Tools & Technologies
+Delivered data-driven recommendations that strengthened pricing strategies, enhanced market competitiveness, and maximized overall retail profitability.
 
-Data Management: SQL
+**Tools & Technologies:**
 
-Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn)
+**Data Management:** SQL
 
-Data Visualization: Power BI (with interactive dashboards and DAX measures)
+**Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Impact
+**Data Visualization:** Power BI (with interactive dashboards and DAX measures)
+
+**Impact:**
 
 Enabled informed pricing decisions based on historical trends and competitor benchmarks
 
@@ -46,16 +48,12 @@ Improved revenue forecasting and strategy formulation
 
 Maximized retail profitability and enhanced market positioning
 
-Future Enhancements
+**Future Enhancements:**
 
-Dynamic Pricing with Machine Learning
-
+**Dynamic Pricing with Machine Learning:**
 Implement predictive models to automatically adjust prices based on demand, seasonality, and competitor actions.
-
 Use regression or time-series forecasting to optimize pricing in real-time.
 
-Integration of Customer Behavior Data
-
+**Integration of Customer Behavior Data:**
 Incorporate customer segmentation, purchase history, and online behavior to personalize pricing and promotions.
-
 Improve targeting and conversion rates.
