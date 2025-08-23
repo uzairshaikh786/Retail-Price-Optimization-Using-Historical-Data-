@@ -4,12 +4,12 @@
 This project focuses on optimizing retail pricing strategies using historical sales and competitor pricing data. By leveraging SQL, Python, and Power BI, actionable insights were generated to enhance decision-making, maximize profitability, and improve market competitiveness.
 
 
-**Overview**
+**Overview:**
 
 Retail pricing plays a crucial role in driving sales and profitability. This project analyzed large volumes of historical sales and competitor pricing data to identify patterns, determine pricing sensitivity, and recommend optimal pricing strategies for improved revenue outcomes.
 
 
-**Key Steps**
+**Key Steps:**
 
 
 **. Data Collection & Cleaning:** Extracted and refined large datasets from historical sales records and competitor pricing using SQL, ensuring accuracy, quality, and consistency.
@@ -52,8 +52,10 @@ Maximized retail profitability and enhanced market positioning
 
 **Dynamic Pricing with Machine Learning:**
 Implement predictive models to automatically adjust prices based on demand, seasonality, and competitor actions.
+
 Use regression or time-series forecasting to optimize pricing in real-time.
 
 **Integration of Customer Behavior Data:**
 Incorporate customer segmentation, purchase history, and online behavior to personalize pricing and promotions.
+
 Improve targeting and conversion rates.
